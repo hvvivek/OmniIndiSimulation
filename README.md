@@ -1,7 +1,7 @@
 # OmniIndiSimulation
-A Java based agent-based simplified simulation of the healthcare data system
-// Please find the results of a simulation over 30 months in the results folder
-// This model is under development and is subject to change in the future
+A Java based agent-based simplified simulation of the healthcare data system<br>
+// Please find the results of a simulation over 30 months in the results folder<br>
+// This model is under development and is subject to change in the future<br>
 
 Stakeholders/Agents:
 1. User<br />
@@ -147,10 +147,12 @@ Interactions:<br>
             1. Provide coverage to users (No surchaarges)
 
 
-References:
-CDC - Chronic Diseases Stats - https://www.cdc.gov/chronicdisease/overview/index.htm
-NIH - Rare Diseases Info - https://rarediseases.info.nih.gov/diseases/pages/31/faqs-about-rare-diseases
-Datamap - System connections and Data Marketplace - https://thedatamap.org/
+References:<br>
+CDC - Chronic Diseases Stats - https://www.cdc.gov/chronicdisease/overview/index.htm<br>
+NIH - Rare Diseases Info - https://rarediseases.info.nih.gov/diseases/pages/31/faqs-about-rare-diseases<br>
+Datamap - System connections and Data Marketplace - https://thedatamap.org/<br>
+Hypertension and Diabetes Expenditures - https://www.sciencedirect.com/science/article/pii/S0749379717304257<br>
+Diabetes Expenditure - http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html<br>
 
 
 
