@@ -1,5 +1,7 @@
 # OmniIndiSimulation
 A Java based agent-based simplified simulation of the healthcare data system
+// Please find the results of a simulation over 30 months in the results folder
+// This model is under development and is subject to change in the future
 
 Stakeholders/Agents:
 1. User<br />
@@ -94,3 +96,61 @@ Hospitals
     1. Small Hospital - 15%
     2. Medium Hospital - 30%
     3. Large Hospitals - 40%
+
+
+Interactions:<br>
+
+1. Before Omni-Indi:<br>
+    1. Users
+        1. User: 
+            1. Generate personal tracking data per iteration
+        2. Hospitals: 
+            1. Pay hospitals per visit
+            2. Provide data to hospitals per visit
+        3. Insurance:
+            1. Pay Insurance costs
+    2. Healthcare:
+        1. User:
+            1. Get Money from User
+            2. Get Data from Users
+        2. Data Miners:
+            1. Sell data to data miners
+    3. Research:
+        1. Data Miners:
+            1. Buy Data from Data Miners
+    4. Data Miners
+        1. Hospitals:
+            1. Get Data from Hospitals
+            2. Sell Data to Research
+    5. Insurance:
+        1. Users:
+            1. Adjust rates every year based on health status over past year
+
+2. After Omni-Indi:<br>
+    1. Users
+        1. User: 
+            1. Generate personal tracking data per iteration
+        2. Hospitals: 
+            1. Pay hospitals per visit
+        3. Insurance:
+            1. Pay Insurance costs
+    2. Healthcare:
+        1. User:
+            1. Get Money from User
+    3. Research:
+        1. Users:
+            1. Buy Data from Users
+    4. Data Miners
+        1. No interactions
+    5. Insurance:
+        1. Users:
+            1. Provide coverage to users (No surchaarges)
+
+
+References:
+CDC - Chronic Diseases Stats - https://www.cdc.gov/chronicdisease/overview/index.htm
+NIH - Rare Diseases Info - https://rarediseases.info.nih.gov/diseases/pages/31/faqs-about-rare-diseases
+Datamap - System connections and Data Marketplace - https://thedatamap.org/
+
+
+
