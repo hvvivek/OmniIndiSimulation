@@ -3,6 +3,11 @@ A Java based agent-based simplified simulation of the healthcare data system<br>
 // Please find the results of a simulation over 30 months in the results folder<br>
 // This model is under development and is subject to change in the future<br>
 
+
+How to run:
+1. Install Eclipse - https://www.eclipse.org/
+2. Import project - and import the current project folder
+
 Stakeholders/Agents:
 1. User<br />
     Properties:
